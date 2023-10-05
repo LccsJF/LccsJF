@@ -3,7 +3,6 @@
 [![Instagram](  https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lccsjf/)
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-claudio-clineu-da-silva/)
 [![Facebook](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lccsjf/)
-[![Facebook](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lccsjf/)
 
 ![LccsJF GitHub stats](https://github-readme-stats.vercel.app/api?username=LccsJF&show_icons=true&theme=tokyonight)
 
@@ -17,6 +16,4 @@
     <img align="center" alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 </div><br/>
 
-Trabalhei em gráfica e migrando para área de tecnologia. Sou bem extrovertido e curto rock progressivo e trip hop como:
-- Pink Floyd, Supertramp, Marillion, Portishead, Massive Attack e outros.
 
